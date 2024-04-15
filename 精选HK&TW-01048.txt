@@ -1,3 +1,4 @@
+港澳台,#genre#
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 TVB翡翠台,https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.ctv
@@ -57,6 +58,7 @@ GOODTV,http://mywlkj.ddns.net:754/tv/dl/dl668/hk.php?id=433
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 台湾Plus,https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
 台湾番薯台[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+卫视,#genre#
 荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
@@ -66,6 +68,7 @@ GOODTV,http://mywlkj.ddns.net:754/tv/dl/dl668/hk.php?id=433
 湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 江苏卫视,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+4K高清,#genre#
 北京纪实8K,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
 CCTV 4K超高清（流畅）,https://epg.pw/stream/880cf2911be2cb89b60ce088e1727d834425895cf417ae5987247c2bd10659e7.m3u8
 北京IPTV 4K超清（流畅）,https://epg.pw/stream/3138cb1a1dc73bdf6ce7e465442b95eee3f6647808830db5a6a5d62f7ab61a98.ctv
@@ -87,6 +90,7 @@ Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc
 浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 广东卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+国外,#genre#
 Fox新闻台,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
