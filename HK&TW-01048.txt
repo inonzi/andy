@@ -5,7 +5,6 @@ TVB翡翠台,https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f
 TVB翡翠台【720P】,https://epg.pw/stream/87424e9fb6e25b9b628bfa3e327e65e73a57c9f83c09f8abd479b1f3d062ea49.ctv
 TVB明珠台,https://epg.pw/stream/00a74ca4020cd952c9e1ff1f90b8f7b9be9c1da4f0a915e1e0aa7c9dfa356197.m3u8
 美亚电视C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-無線新聞台,https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
 港集专线直播,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 鳳凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
