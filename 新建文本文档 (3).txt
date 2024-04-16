@@ -1,0 +1,94 @@
+港澳台,#genre#
+翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
+明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
+TVB翡翠台,https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.ctv
+TVB翡翠台【720P】,https://epg.pw/stream/87424e9fb6e25b9b628bfa3e327e65e73a57c9f83c09f8abd479b1f3d062ea49.ctv
+TVB明珠台,https://epg.pw/stream/00a74ca4020cd952c9e1ff1f90b8f7b9be9c1da4f0a915e1e0aa7c9dfa356197.m3u8
+美亚电视C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+港集专线直播,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+鳳凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视@2,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视@3,http://anren.live/HK/BSJDUFpB.m3u8
+TVB星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
+TVB J1,https://epg.pw/stream/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8
+TVB无线新闻缓冲10秒**,http://zsntlqj.xicp.net:8896/bysid/83
+TVB 星河频道**,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+无线娱乐频道@@,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+耀才财经频道**,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+耀才财经频道**,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+TVB 娱乐新闻台@2（相对流畅）,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
+TVB 娱乐新闻台@4,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
+TVB 经典 (CH305)@6,https://epg.pw/stream/acb6d6f95a64090b2aa4cd87b0d13e1c917000bf361c6428643d189ad539f553.ctv
+TVB 经典 (CH305)@7（相对流畅）,https://epg.pw/stream/4774cb8b5178cc12bb7a079f832f12a7049c317940c7489df20aa0245b2ffea9.ctv
+TVB 经典 (CH305)@9,https://epg.pw/stream/6fa05b16f1b9acd325b49f3e9190f26bcd731ee28e925410ddee1400ba2bba7f.ctv
+TVB 埋堆堆（TVB剧集国语）,https://epg.pw/stream/43ba8a1ca3f22cb8a5d17fca633d2a1e74b5451781e9a27a3ff67130424f4460.ctv
+华视HD,rtmp://f13h.mine.nu/sat/tv111
+中视HD,rtmp://f13h.mine.nu/sat/tv091
+台视HD,rtmp://f13h.mine.nu/sat/tv071
+民视HD,rtmp://f13h.mine.nu/sat/tv051
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+MOMO综合,rtmp://f13h.mine.nu/sat/tv761
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+TVBS ASIA,https://epg.pw/stream/445f65a11f602d65402afe687ee3b703f27ec9b1e118269f16243ea80d93dfb9.ctv
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+HOY TV 77,http://51.89.21.73:27347/livehttpplay?channel_id=20152
+TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB翡翠台,http://mywlkj.ddns.net:754/tv/hiper25.php?id=1
+TVB星河,http://mywlkj.ddns.net:754/tv/hk.php?id=30
+TVB 明珠台,http://mywlkj.ddns.net:754/tv/hiper25.php?id=2
+TVB亚洲武侠,http://mywlkj.ddns.net:754/tv/hk.php?id=29
+AMC电影台,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
+纬来精彩HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
+GTV八大综合台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+GTV八大第1台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=13
+GOODTV,http://mywlkj.ddns.net:754/tv/dl/dl668/hk.php?id=433
+广州南国都市,http://mywlkj.ddns.net:754/tv/28.php?id=28023
+澳视高清台,http://tvbox6.com/tv/dl/dl668/top.php?id=306
+澳视资讯台,http://mywlkj.ddns.net:754/tv/dl/dl668/top.php?id=305
+澳视卫星台,http://mywlkj.ddns.net:754/tv/dl/dl668/top.php?id=303
+澳视澳门台,http://mywlkj.ddns.net:754/tv/dl/dl668/top.php?id=301
+澳视澳门,http://mywlkj.ddns.net:754/tv/hiper25.php?id=3
+澳視澳門,https://iptv.hiper25.com/TDM/video.m3u8
+华丽翡翠台,https://epg.pw/stream/ed3cb928cc3a187bd6456c7562f0f0a99c08f065b5177134aee9931518cc61f5.ctv
+天映频道台,https://epg.pw/stream/6ce6153c50095866e921e3584843aa8086ed10a8911a1793d641b281541db5c6.ctv
+台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+台湾Plus,https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
+台湾番薯台[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+卫视,#genre#
+荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+江苏卫视,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+4K高清,#genre#
+北京纪实8K,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
+CCTV 4K超高清,https://epg.pw/stream/880cf2911be2cb89b60ce088e1727d834425895cf417ae5987247c2bd10659e7.m3u8
+北京IPTV 4K超清,https://epg.pw/stream/3138cb1a1dc73bdf6ce7e465442b95eee3f6647808830db5a6a5d62f7ab61a98.ctv
+北京纪实8K,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+爱上4K「IPV6」,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
+咪咕直播4K Ⅱ,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+咪咕直播4K Ⅰ,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+咪咕直播4K Ⅰ「IPV6」,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+卫视IPV6,#genre#
+深圳卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+东方卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+东南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+江苏卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+广东卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+国外,#genre#
+Fox新闻台,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
