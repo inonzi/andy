@@ -133,11 +133,11 @@ https://epg.pw/stream/39db9f643bd19cdfc5357b2f604a1e0b4c6923d8797dc510e6e5c6f74b
 https://epg.pw/stream/86d6e73dae4765c0806b12ba5371b35f56e55eb8678e36416920f8a0581266be.ctv
 #EXTINF:-1 tvg-name="Viu TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193925517675_19.png" group-title="香港頻道",[BD]VIUTV  *
 https://epg.pw/stream/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港頻道",[BD]HOY TV  *
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港頻道",[BD]HOY TV 77  *
 https://epg.pw/stream/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.ctv
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港頻道",[BD]HOY TV  *
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港頻道",[BD]HOY TV 78  *
 https://epg.pw/stream/e106bfd05401b1f0c3bf587a65f97b472420a4a4dcd158a321aef78a616d9979.ctv
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港頻道",[BD]HOY TV（需代理加速）*
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港頻道",[BD]HOY TV 77（需代理加速）*
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://epg.pw/media/images/channel/2019/11/22/large/20191122230402926478_41.png" group-title="香港頻道",TVB功夫台（不穩定）
 https://ali.hlspull.yximgs.com/live/12344.flv
