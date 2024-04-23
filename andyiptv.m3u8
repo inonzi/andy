@@ -46,23 +46,23 @@ https://epg.pw/stream/9bc7f3dc585f5d76fcc3b66149f2c792f4d439953e464450b638291fdb
 https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
 #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港頻道",[BD]無綫新聞台  *
 https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
-#EXTINF:-1 group-title="香港頻道",美亚电视C+高清  *
+#EXTINF:-1 tvg-name="美亚电视C+" tvg-logo="https://live.staticflickr.com/65535/53672235757_76973441c4_m.jpg" group-title="香港頻道",美亚电视C+高清  *
 https://epg.pw/stream/394c42b3f08157667f830ed8dcff23cf770f04df377d263ac2103ca1bd4e6028.m3u8
-#EXTINF:-1 group-title="香港頻道",美亚电视C+高清  *
+#EXTINF:-1 tvg-name="美亚电视C+" tvg-logo="https://live.staticflickr.com/65535/53672235757_76973441c4_m.jpg" group-title="香港頻道",美亚电视C+高清  *
 https://epg.pw/stream/394c42b3f08157667f830ed8dcff23cf770f04df377d263ac2103ca1bd4e6028.m3u8
-#EXTINF:-1 group-title="香港頻道",美亚电视C+720P  *
+#EXTINF:-1 tvg-name="美亚电视C+" tvg-logo="https://live.staticflickr.com/65535/53672235757_76973441c4_m.jpg" group-title="香港頻道",美亚电视C+720P  *
 https://epg.pw/stream/8809ef652c64001910cceaa72e6190b5bfe53d1f7478b98f2bcac0531f8c436d.m3u8
-#EXTINF:-1 group-title="香港頻道",美亚电视C+720P  *
+#EXTINF:-1 tvg-name="美亚电视C+" tvg-logo="https://live.staticflickr.com/65535/53672235757_76973441c4_m.jpg" group-title="香港頻道",美亚电视C+720P  *
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
-#EXTINF:-1 group-title="香港頻道",美亚电视C+標清  *
+#EXTINF:-1 tvg-name="美亚电视C+" tvg-logo="https://live.staticflickr.com/65535/53672235757_76973441c4_m.jpg" group-title="香港頻道",美亚电视C+標清  *
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
-#EXTINF:-1 group-title="香港頻道",美亚电视C+高清  *
+#EXTINF:-1 tvg-name="美亚电视C+" tvg-logo="https://live.staticflickr.com/65535/53672235757_76973441c4_m.jpg" group-title="香港頻道",美亚电视C+高清  *
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="香港頻道",TVB PLUS 720P  *
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.staticflickr.com/65535/53673406680_cec822927a_m.jpg" group-title="香港頻道",TVB PLUS 720P  *
 https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-#EXTINF:-1 group-title="香港頻道",TVB明珠台（不稳定） *
+#EXTINF:-1,tvg-name="明珠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="香港頻道",TVB明珠台（不稳定） *
 https://epg.pw/stream/ac4c954ac1b36289d6279103388272849e930c79220fb88f2aa5e20146b12a48.ctv
-#EXTINF:-1 group-title="香港頻道",TVB明珠台（不稳定）*
+#EXTINF:-1,tvg-name="明珠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="香港頻道",TVB明珠台（不稳定）*
 https://epg.pw/stream/d10537b7c7bd5042706a9bf58776a08a4c2cbc09a65d612db415bc14ee1b9a13.ctv
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.staticflickr.com/65535/53673406680_cec822927a_m.jpg" group-title="香港頻道",[BD]TVB PLUS（相对稳定）*
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
@@ -70,9 +70,9 @@ https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27a
 https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.staticflickr.com/65535/53673406680_cec822927a_m.jpg" group-title="香港頻道",[BD]TVB PLUS  *
 https://epg.pw/stream/14645066abad1877d879ebeee49a0988342e7e969e41f1c7a6cb21d2cc28f1a3.ctv
-#EXTINF:-1 group-title="香港頻道",Bread TV面包台 (720P)  *
+#EXTINF:-1 tvg-name="面包台" tvg-logo="https://live.staticflickr.com/65535/53673605900_3ef43b3d9e_m.jpg" group-title="香港頻道",Bread TV面包台 (720P)  *
 https://epg.pw/stream/a80f615a0f99b1dd0481ae195fe5661bdbc53826e6105f254e52cccaba74bdc4.m3u8
-#EXTINF:-1 group-title="香港頻道",Bread TV面包台 (720P)  *
+#EXTINF:-1 tvg-name="面包台" tvg-logo="https://live.staticflickr.com/65535/53673605900_3ef43b3d9e_m.jpg" group-title="香港頻道",Bread TV面包台 (720P)  *
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 tvg-name="鳳凰中文臺HD" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506162320554543_81.png" group-title="香港頻道",[BD]鳳凰衛視中文台  *
@@ -81,23 +81,23 @@ http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
 http://103.95.24.37:880/fhxgt.m3u8
-#EXTINF:-1 group-title="香港頻道",香港衛視
+#EXTINF:-1 tvg-name="香港衛視" tvg-logo="https://live.staticflickr.com/65535/53673506934_f061c47e57_m.jpg" group-title="香港頻道",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="香港頻道",香港衛視
+#EXTINF:-1 tvg-name="香港衛視" tvg-logo="https://live.staticflickr.com/65535/53673506934_f061c47e57_m.jpg" group-title="香港頻道",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 group-title="香港頻道",香港衛視
+#EXTINF:-1 tvg-name="香港衛視" tvg-logo="https://live.staticflickr.com/65535/53673506934_f061c47e57_m.jpg" group-title="香港頻道",香港衛視
 http://anren.live/HK/BSJDUFpB.m3u8
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港頻道",凤凰中文  *
 https://epg.pw/stream/2cd8b0d0e8b7bda9c76ae4e0d554782532055b48e88e266f743eaa21ca7e44e0.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港頻道",凤凰资讯  *
 https://epg.pw/stream/e3226c760ab2d56fda3a1d41f17e0535e69516977f7210504681cc0b4628b055.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰深圳旁边.png" group-title="香港頻道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",凤凰香港
 https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
 
-#EXTINF:-1 group-title="香港頻道",TVB無線新聞缓冲10秒
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港頻道",TVB無線新聞缓冲10秒
 http://zsntlqj.xicp.net:8896/bysid/83
-#EXTINF:-1 group-title="香港頻道",TVB星河频道
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719085717672946_45.png" group-title="香港頻道",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="耀才財經臺" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806003654467692_44.jpg" group-title="香港頻道",耀才財經臺  *
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
@@ -133,11 +133,11 @@ https://epg.pw/stream/39db9f643bd19cdfc5357b2f604a1e0b4c6923d8797dc510e6e5c6f74b
 https://epg.pw/stream/86d6e73dae4765c0806b12ba5371b35f56e55eb8678e36416920f8a0581266be.ctv
 #EXTINF:-1 tvg-name="Viu TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193925517675_19.png" group-title="香港頻道",[BD]VIUTV  *
 https://epg.pw/stream/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港頻道",[BD]HOY TV 77  *
+#EXTINF:-1 tvg-name="HOY 77" tvg-logo="https://live.staticflickr.com/65535/53673605915_07e4c7f65b_m.jpg" group-title="香港頻道",[BD]HOY TV 77  *
 https://epg.pw/stream/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.ctv
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港頻道",[BD]HOY TV 78  *
+#EXTINF:-1 tvg-name="HOY 78" tvg-logo="https://live.staticflickr.com/65535/53673368068_f1ce2c6c38_m.jpg" group-title="香港頻道",[BD]HOY TV 78  *
 https://epg.pw/stream/e106bfd05401b1f0c3bf587a65f97b472420a4a4dcd158a321aef78a616d9979.ctv
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港頻道",[BD]HOY TV 77（需代理加速）*
+#EXTINF:-1 tvg-name="HOY 77" tvg-logo="https://live.staticflickr.com/65535/53673605915_07e4c7f65b_m.jpg" group-title="香港頻道",[BD]HOY TV 77（需代理加速）*
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://epg.pw/media/images/channel/2019/11/22/large/20191122230402926478_41.png" group-title="香港頻道",TVB功夫台（不穩定）
 https://ali.hlspull.yximgs.com/live/12344.flv
