@@ -314,27 +314,4 @@ http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
 #EXTINF:-1 group-title="国际频道",HOY TV 欧美
 https://epg.pw/stream/95017befd6e3529b79154d3f3c3d39f466afa7c2f5512b4ebdd9077ec61163da.m3u8
-
-#EXTINF:-1 tvg-name="龍華偶像（不穩定）" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126162628265986_92.jpg" group-title="台灣頻道",龍華偶像
-https://epg.pw/stream/27a58cf5efedddfeadc3c2fde0020cab45d9cc49ca98d20b9fe21a2a5d8efc2c.m3u8
-#EXTINF:-1 group-title="台灣頻道",非凡新聞HD（需代理加速）美國節點
-https://epg.pw/stream/a46f1155e768a1d44ec78e6a01acafe3f2f83650f9352db8e8eb84170d7535d7.m3u8
-#EXTINF:-1 tvg-name="公視" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724132344493469_30.png" group-title="台灣頻道",公視
-https://epg.pw/stream/68063c382e8596c301016e3d13a513e74b92e8e6ac118e0ef13629b9fb67a0a9.m3u8
-#EXTINF:-1 group-title="台灣頻道",八大第1台HD（不穩定）
-https://epg.pw/stream/6003989780374c54976ca538a5f4568c65e2afd11d16338b3c720c1e2c4d6a93.m3u8
-#EXTINF:-1 tvg-name="八大戲劇HD（不穩定）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png" group-title="台灣頻道",[BD]八大戲劇台HD
-https://epg.pw/stream/bf9c69740a7b5225aab8547e6e8b8ddef7f58161aefa604079f849beab2c339e.m3u8
-#EXTINF:-1 tvg-name="緯來電影（需代理加速）美國節點" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="台灣頻道",緯來電影HD
-https://epg.pw/stream/722505b3aabbd0a31f226ee7ea22ff410e8ebc38f635956ecc1be637b1732c0b.m3u8
-#EXTINF:-1,民视台湾台HD（需代理加速）美國節點
-https://epg.pw/stream/6de6fc3073fd98a8f878df8d20a3bc89656f040bfec5801acaa1e8cd2e112cb8.m3u8
-#EXTINF:-1,亞洲旅遊台（需代理加速）美國節點
-https://epg.pw/stream/f37da2efccabdbc9174772c8006c7937ed973b98b46feceebe1c1e95c05db2bf.m3u8
-#EXTINF:-1,龍華戲劃（需代理加速）美國節點
-https://epg.pw/stream/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8
-#EXTINF:-1,八大第1台HD（需代理加速）美國節點
-https://epg.pw/stream/5e05b4d379c488e11d4e882f58434230f0c818d00d49e8fc8b0d44382585afd6.m3u8
-#EXTINF:-1,中天娛樂HD（需代理加速）美國節點
-https://epg.pw/stream/e54f31eb9ad5a4df474a91a9de4306bcc33fe817b967a82df1bbb722d488bc00.m3u8
 帶*號美國節點测试可用
