@@ -313,5 +313,5 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
 #EXTINF:-1 group-title="国际频道",HOY TV 欧美
 https://epg.pw/stream/95017befd6e3529b79154d3f3c3d39f466afa7c2f5512b4ebdd9077ec61163da.m3u8
-#EXTINF:-1,帶*號美國節點测试可用
+#EXTINF:-1 ,帶*號美國節點测试可用
 https://epg.pw/stream/95017befd6e3529b79154d3f3c3d39f466afa7c2f5512b4ebdd9077ec61163da.m3u8
