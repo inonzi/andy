@@ -58,12 +58,12 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 #EXTINF:-1 tvg-name="美亚电视C+" tvg-logo="https://live.staticflickr.com/65535/53672235757_76973441c4_m.jpg" group-title="香港頻道",美亚电视C+高清  *
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.staticflickr.com/65535/53673406680_cec822927a_m.jpg" group-title="香港頻道",TVB PLUS 720P  *
-https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 #EXTINF:-1,tvg-name="明珠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="香港頻道",TVB明珠台（不稳定） *
 https://epg.pw/stream/ac4c954ac1b36289d6279103388272849e930c79220fb88f2aa5e20146b12a48.ctv
 #EXTINF:-1,tvg-name="明珠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="香港頻道",TVB明珠台（不稳定）*
 https://epg.pw/stream/d10537b7c7bd5042706a9bf58776a08a4c2cbc09a65d612db415bc14ee1b9a13.ctv
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.staticflickr.com/65535/53673406680_cec822927a_m.jpg" group-title="香港頻道",TVB PLUS 720P  *
+https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.staticflickr.com/65535/53673406680_cec822927a_m.jpg" group-title="香港頻道",[BD]TVB PLUS（相对稳定）*
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.staticflickr.com/65535/53673406680_cec822927a_m.jpg" group-title="香港頻道",[BD]TVB PLUS  *
