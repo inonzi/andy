@@ -46,6 +46,8 @@ https://epg.pw/stream/85b6b89c5980ceb27e3efdcea6daeb2bdafec5ad79f7b27bd1edbb9d1d
 https://epg.pw/stream/0d8e62aba3d874002125398a84c732a0fd33072d3fe2c43857df08f918811e4e.ctv
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
 https://epg.pw/stream/2005e3e15b52db150d59cc95c4e979ef4d9b5c42f4ce9037c99e51a3ee31e9f0.ctv
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",凤凰香港
+https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
 #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港頻道",[BD]無綫新聞台
 https://epg.pw/stream/9bc7f3dc585f5d76fcc3b66149f2c792f4d439953e464450b638291fdb9b4a6d.ctv
 #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港頻道",[BD]無綫新聞台  *
@@ -86,11 +88,9 @@ http://113.64.145.220:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204145017493579_29.png" group-title="香港頻道",[BD]鳳凰衛視資訊台  *
 http://113.64.145.220:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
-http://103.95.24.37:880/fhxgt.m3u8
-#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
 http://113.64.145.220:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",凤凰香港
-https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
+http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 tvg-name="香港衛視" tvg-logo="https://live.staticflickr.com/65535/53673506934_f061c47e57_m.jpg" group-title="香港頻道",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港衛視" tvg-logo="https://live.staticflickr.com/65535/53673506934_f061c47e57_m.jpg" group-title="香港頻道",香港衛視
