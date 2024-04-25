@@ -85,7 +85,7 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506162320554543_81.png" group-title="香港頻道",[BD]鳳凰衛視中文台  *
 http://113.64.145.220:8081/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204145017493579_29.png" group-title="香港頻道",[BD]鳳凰衛視資訊台  *
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204145017493579_29.png" group-title="香港頻道",[BD]鳳凰衛視資訊台  *
 http://113.64.145.220:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
 http://113.64.145.220:8081/hls/38/index.m3u8
