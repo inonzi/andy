@@ -103,6 +103,7 @@ DAZN体育2台  *,rtmp://f13h.mine.nu/sat/tv741
 MOMO綜合HD  *,rtmp://f13h.mine.nu/sat/tv761
 緯來日本HD  *,rtmp://f13h.mine.nu/sat/tv771
 TVBS亚洲  *,https://epg.pw/stream/69a6002a82368bd46e1d7da8a2405145bcbc5ca195f0a26b9ca4a21acdb45dd4.m3u8
+TVBS亚洲  *,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 大立電視  *,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 中天亞洲台  *,https://epg.pw/stream/7b718aa376b93a0d33cad579b5558d601ff9ea64c3e9d6b6ce84f7b2e57570f0.ctv
 中天亞洲台  *,https://epg.pw/stream/149ee681a7aa277f23758b7ea79cd2ec4b037bc14f122435b31294981e4acbca.ctv
