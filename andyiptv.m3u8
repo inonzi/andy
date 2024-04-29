@@ -16,6 +16,8 @@ https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416a
 https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
 #EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png" group-title="香港頻道",TVB J1  *
 https://epg.pw/stream/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8
+#EXTINF:-1 tvg-name="Now爆谷星影" tvg-logo="https://live.staticflickr.com/65535/53687618780_b674c7461a_m.jpg" group-title="香港頻道",Now爆谷星影台720P
+http://60.30.198.43:5080/HK/xy/hls.m3u8
 #EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)
 https://epg.pw/stream/d286d72ac8a3cd6fb43998fa5fdd35d77e3b11d40636df821fa5c2f9945c3445.ctv
 #EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
@@ -83,10 +85,22 @@ https://epg.pw/stream/a80f615a0f99b1dd0481ae195fe5661bdbc53826e6105f254e52cccaba
 #EXTINF:-1 tvg-name="面包台" tvg-logo="https://live.staticflickr.com/65535/53673605900_3ef43b3d9e_m.jpg" group-title="香港頻道",Bread TV面包台 (720P)  *
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
-#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506162320554543_81.png" group-title="香港頻道",[BD]鳳凰衛視中文台  *
-http://113.64.145.220:8081/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204145017493579_29.png" group-title="香港頻道",[BD]鳳凰衛視資訊台  *
-http://113.64.145.220:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港頻道",鳳凰衛視中文台  *
+https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港頻道",鳳凰衛視中文台
+https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港頻道",鳳凰衛視中文台
+https://epg.pw/stream/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港頻道",鳳凰衛視中文台
+https://epg.pw/stream/30cd5e1750b4964bc1bedfea45649cec7531987a88a0f5dc2fb8c773b5c582f7.ctv
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港頻道",鳳凰衛視資訊台  *
+https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港頻道",鳳凰衛視資訊台
+https://epg.pw/stream/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.ctv
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港頻道",鳳凰衛視資訊台
+https://epg.pw/stream/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港頻道",鳳凰衛視資訊台
+https://epg.pw/stream/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
 http://113.64.145.220:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
