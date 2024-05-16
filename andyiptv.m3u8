@@ -1,11 +1,9 @@
 ﻿#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173109065303_59.png" group-title="香港頻道",TVB翡翠台（高码）*
-https://epg.pw/stream/faf0a21f86cce2c13e6b0be2d9990139cc0c94d1e8c8a113df567277a6a86ef5.ctv
+https://epg.pw/stream/ac80393cb8061167d2f8e313933cef05aba324a577a25affa41fc8b875f78e82.m3u8
 #EXTINF:-1,tvg-name="明珠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="香港頻道",TVB明珠台  *
-https://epg.pw/stream/4b6c809c8f12c14f840b1a00024562de2a134fe653509cc76ff6782f881a05d1.ctv
+https://epg.pw/stream/646ab9165fd9d609642b55e9c72ff6f0eb5d017fa130683f9d877dda5841b307.ctv
 
-#EXTINF:-1,tvg-name="明珠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="香港頻道",TVB明珠台（不稳定）
-https://epg.pw/stream/bde11013d796ff13b2c0fc674ca5dd5153235cd261bc4b6cf3b6f1c46fd1def0.m3u8
 #EXTINF:-1 tvg-name="澳亞衛視" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="澳門頻道",澳亚卫视  *
 https://epg.pw/stream/272b491cb7edf448a56c75a2677cdfa0f9427bc87d01f02765f5aff658dadeba.m3u8
 #EXTINF:-1 tvg-name="澳亞衛視" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="澳門頻道",澳亚卫视  *
@@ -16,38 +14,9 @@ https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416a
 https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
 #EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png" group-title="香港頻道",TVB J1  *
 https://epg.pw/stream/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8
-#EXTINF:-1 tvg-name="Now星影" tvg-logo="https://live.staticflickr.com/65535/53687618780_b674c7461a_m.jpg" group-title="香港頻道",Now星影台720P
-http://60.30.198.43:5080/HK/xy/hls.m3u8
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)
-https://epg.pw/stream/d286d72ac8a3cd6fb43998fa5fdd35d77e3b11d40636df821fa5c2f9945c3445.ctv
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
-https://epg.pw/stream/87424e9fb6e25b9b628bfa3e327e65e73a57c9f83c09f8abd479b1f3d062ea49.ctv
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
-https://epg.pw/stream/b44ad4a52325c7deaeed727cae5900e4f950c20d5d79f24b35bb27508588a181.ctv
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
-https://epg.pw/stream/f404ee7d59bb3210efed857cd0a746086c99ed63ba31ed059e388219b1f2cab7.ctv
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
-https://epg.pw/stream/74a7a84cccb3bff29f2140ac188cd5248847b7b51439af9b858ce3fde19e27af.ctv
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
-https://epg.pw/stream/99a3b61765030375b8277597fa45f7d82ade60c6a983a2833176951288b81a8d.ctv
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
-https://epg.pw/stream/e82e68d8ce4ece72525c3a076cd1b8ca54e1b171aa2c308a959d8208df91d76b.ctv
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
-https://epg.pw/stream/281645d68b7f62bd4a67426cdcb237cd5881ecb11595986249704c898383f005.ctv
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
-https://epg.pw/stream/5888a3335a12399590d81191104beae246f44e36df81ceb630bb237c4cd6f425.ctv
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
-https://epg.pw/stream/21fcb93d5a385dc35be7b83784abc0e18ce86cfe8b7cf7b09e8e2884483d3843.ctv
-#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="香港頻道",[HD]Astro华丽台(翡MAS)  *
-https://epg.pw/stream/ed3cb928cc3a187bd6456c7562f0f0a99c08f065b5177134aee9931518cc61f5.ctv
+
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
 https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
-#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
-https://epg.pw/stream/85b6b89c5980ceb27e3efdcea6daeb2bdafec5ad79f7b27bd1edbb9d1d786f46.ctv
-#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
-https://epg.pw/stream/0d8e62aba3d874002125398a84c732a0fd33072d3fe2c43857df08f918811e4e.ctv
-#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",[BD]凤凰香港  *
-https://epg.pw/stream/2005e3e15b52db150d59cc95c4e979ef4d9b5c42f4ce9037c99e51a3ee31e9f0.ctv
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="香港頻道",凤凰香港
 https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
 #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港頻道",[BD]無綫新聞台
