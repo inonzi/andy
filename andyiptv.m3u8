@@ -133,6 +133,10 @@ rtmp://f13h.mine.nu/sat/tv761
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-name="大立電視臺" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223148772098_30.png" group-title="台灣頻道",大立電視  *
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="台灣頻道",TVBS亚洲（需代理）
+https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="台灣頻道",TVBS亚洲（需代理）
+https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
 #EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png" group-title="台灣頻道",台視新聞HD
 https://epg.pw/stream/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162515629145_45.png" group-title="台灣頻道",TVBS新聞
@@ -223,8 +227,6 @@ https://epg.pw/stream/e106bfd05401b1f0c3bf587a65f97b472420a4a4dcd158a321aef78a61
 http://210.210.155.37/dr9445/h/h14/01.m3u8
 #EXTINF:-1 tvg-name="天映經典" tvg-logo="https://epg.pw/media/images/channel/2018/02/10/large/20180210001223006998_82.jpg" group-title="香港頻道",[SD]天映經典  *
 https://epg.pw/stream/48b8c8fdc8b57ce555fc40d344cae0b6572e1f2d6126eb3e38ce917925ee3658.ctv
-#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="台灣頻道",TVBS亚洲  *
-https://epg.pw/stream/69a6002a82368bd46e1d7da8a2405145bcbc5ca195f0a26b9ca4a21acdb45dd4.m3u8
 #EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="台灣頻道",中天亞洲台  *
 https://epg.pw/stream/7b718aa376b93a0d33cad579b5558d601ff9ea64c3e9d6b6ce84f7b2e57570f0.ctv
 #EXTINF:-1 group-title="国际频道",astro 歡喜台（需代理）
