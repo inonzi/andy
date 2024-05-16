@@ -1,7 +1,7 @@
 ﻿#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173109065303_59.png" group-title="香港頻道",TVB翡翠台（高码）*
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173109065303_59.png" group-title="香港頻道",翡翠台
 https://epg.pw/stream/ac80393cb8061167d2f8e313933cef05aba324a577a25affa41fc8b875f78e82.m3u8
-#EXTINF:-1,tvg-name="明珠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="香港頻道",TVB明珠台  *
+#EXTINF:-1,tvg-name="明珠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721175931313789_88.png" group-title="香港頻道",明珠台
 https://epg.pw/stream/646ab9165fd9d609642b55e9c72ff6f0eb5d017fa130683f9d877dda5841b307.ctv
 
 #EXTINF:-1 tvg-name="澳亞衛視" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="澳門頻道",澳亚卫视  *
