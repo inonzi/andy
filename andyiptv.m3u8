@@ -84,24 +84,6 @@ https://ali.hlspull.yximgs.com/live/12344.flv
 #EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://epg.pw/media/images/channel/2019/11/22/large/20191122230402926478_41.png" group-title="香港頻道",TVB功夫台  *
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805003707250119_76.png" group-title="香港頻道",天映頻道  *
-http://210.210.155.37/dr9445/h/h14/01.m3u8
-#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://epg.pw/media/images/channel/2018/02/10/large/20180210001223006998_82.jpg" group-title="香港頻道",[SD]天映經典  *
-https://epg.pw/stream/48b8c8fdc8b57ce555fc40d344cae0b6572e1f2d6126eb3e38ce917925ee3658.ctv
-#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://epg.pw/media/images/channel/2018/02/10/large/20180210001223006998_82.jpg" group-title="香港頻道",[SD]天映經典  *
-https://epg.pw/stream/f9d40f75ba2a185b8e3017ce7eaf2355e11f024f7dafbd776eb12a6395fb0a97.ctv
-#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://epg.pw/media/images/channel/2018/02/10/large/20180210001223006998_82.jpg" group-title="香港頻道",[SD]天映經典  *
-https://epg.pw/stream/2eb0fe51df64fd6a9f789fd67b51b3aa738c9a82c6ffa02b85bda6f7c8ec05c6.ctv
-#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://epg.pw/media/images/channel/2018/02/10/large/20180210001223006998_82.jpg" group-title="香港頻道",[SD]天映經典
-https://epg.pw/stream/650b7ee852ac9d81e93aac5a9b99fbc463a7f0020ad46f5210939c31d69a628a.ctv
-#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://epg.pw/media/images/channel/2018/02/10/large/20180210001223006998_82.jpg" group-title="香港頻道",[SD]天映經典  *
-https://epg.pw/stream/8f61784d429cf6a20e72d33b7a555c290c949e84cdaaf552c25d73fbbd553be8.ctv
-#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://epg.pw/media/images/channel/2018/02/10/large/20180210001223006998_82.jpg" group-title="香港頻道",[SD]天映經典  *
-https://epg.pw/stream/f1b4084c69513605459b41dc062854e44c3583379b8619e105bede6198d9c332.ctv
-#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://epg.pw/media/images/channel/2018/02/10/large/20180210001223006998_82.jpg" group-title="香港頻道",[SD]天映經典  *
-https://epg.pw/stream/7d0e2f57bd9d1665291495a36edfec2e36497633ba5950eab4be9315967eb22f.ctv
-#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://epg.pw/media/images/channel/2018/02/10/large/20180210001223006998_82.jpg" group-title="香港頻道",[SD]天映經典（不稳定）
-https://epg.pw/stream/bf06ded16ea65e2e8c8f3fc09b18cdd7e07058292ecdc58a9ce51d35510caa39.ctv
 #EXTINF:-1 group-title="大陸頻道",TVB 動作大片国语
 https://epg.pw/stream/b61eefca7ff1bda31563587a1d9263c869bf61f2dc1cc016fad054c24da451d7.ctv
 #EXTINF:-1 group-title="大陸頻道",TVB 埋堆堆（TVB国语剧集）
@@ -149,38 +131,16 @@ rtmp://f13h.mine.nu/sat/tv741
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-name="緯來日本" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126210817982613_24.jpg" group-title="台灣頻道",緯來日本HD  *
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="台灣頻道",TVBS亚洲  *
-https://epg.pw/stream/69a6002a82368bd46e1d7da8a2405145bcbc5ca195f0a26b9ca4a21acdb45dd4.m3u8
 #EXTINF:-1 tvg-name="大立電視臺" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223148772098_30.png" group-title="台灣頻道",大立電視  *
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="台灣頻道",中天亞洲台  *
-https://epg.pw/stream/7b718aa376b93a0d33cad579b5558d601ff9ea64c3e9d6b6ce84f7b2e57570f0.ctv
-#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="台灣頻道",中天亞洲台  *
-https://epg.pw/stream/149ee681a7aa277f23758b7ea79cd2ec4b037bc14f122435b31294981e4acbca.ctv
-#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="台灣頻道",中天亞洲台  *
-https://epg.pw/stream/0cc74aac539ef462dc4094ef42c4d6df6a432c8f341949d21255b7236b257ca8.ctv
-#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="台灣頻道",中天亞洲台  *
-https://epg.pw/stream/497372f33134a923dcc399d9ef70f2cbeae4997f3fdff2f50a8419453c2557c5.ctv
-#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="台灣頻道",中天亞洲台  *
-https://epg.pw/stream/1fc2c15e1adeb5bf15d3d9d51140f60ef5daa4a31793bf2012204b678994a97d.ctv
-#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="台灣頻道",中天亞洲台  *
-https://epg.pw/stream/7d5f7bb550596ec9f43aed600bd4ef31c93b7232035060e9bba7682f0de8dd3d.ctv
-#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="台灣頻道",中天亞洲台  *
-https://epg.pw/stream/450940587fa1fc5e0d5e7dcc867cc7cf516be1703ac460838de30e3d298296d7.ctv
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png" group-title="台灣頻道",台視新聞HD（不穩定）*
-https://epg.pw/stream/d2b89dac8f92beb218b6a885fc7d8de5ad598e8c46b4cc71c7a7fd9c81deed8d.m3u8
 #EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png" group-title="台灣頻道",台視新聞HD
 https://epg.pw/stream/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162515629145_45.png" group-title="台灣頻道",TVBS新聞
 https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224446764842_40.jpg" group-title="台灣頻道",中天新聞720P
 https://epg.pw/stream/cbc18c441841a3f6774b895ef560a5d3e5d21ef76b9ae56ba73af893a29862cb.m3u8
-#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224446764842_40.jpg" group-title="台灣頻道",中天新聞（不穩定）*
-https://epg.pw/stream/d39f0aecde22a7758dfbbe493218d318780a321925f2c403ce34fb10f056cf14.m3u8
 #EXTINF:-1 group-title="台灣頻道",公視新聞
 https://epg.pw/stream/e046ce77a31419746b61d48b9278d08c53e351d8895e04b9abbae407e619ec7f.m3u8
-#EXTINF:-1 group-title="台灣頻道",AXN  *
-https://epg.pw/stream/82024f32bdc26cfce6c132a10e5cf9d94be16911d4a5ee9716a1d03d5e901fd7.ctv
 #EXTINF:-1 group-title="台灣頻道",AXN（不穩定）*
 https://epg.pw/stream/f960fb1159da64498caa89659e220366fcc0942cac0cc7c3cb2a8fbf80bbe826.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724134213849437_33.png" group-title="台灣頻道",寰宇新聞台（需代理）
@@ -205,10 +165,6 @@ https://epg.pw/stream/502ec7a7075f723ec1288fb463708460e8fa0d4f7932812fe508aee001
 https://epg.pw/stream/15f65e7788214c151136f0a27e76b29d706dfca6276be6f5dae52e40398b30b9.m3u8
 #EXTINF:-1 group-title="香港頻道",TVB功夫台（需代理加速）
 https://epg.pw/stream/687075220921fefc274959156653a4fc1a96d5996ed33baadb2d35dd9b1ba228.m3u8
-#EXTINF:-1 group-title="国际频道",astro 歡喜台（需代理）
-https://epg.pw/stream/7cd446803ff94a460257a42459f8520aa75a9fe7a45e230486593369907bc155.ctv
-#EXTINF:-1 group-title="台灣頻道",東森電影HD（需代理）
-https://epg.pw/stream/8b9338c8431ac5c96988336ac78dc95497517655dff3a315ff079c6506588178.m3u8
 
 #EXTINF:-1 group-title="台灣頻道",好消息电视台
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
@@ -263,3 +219,15 @@ https://epg.pw/stream/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a0
 https://epg.pw/stream/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.ctv
 #EXTINF:-1 tvg-name="HOY 78" tvg-logo="https://live.staticflickr.com/65535/53673368068_f1ce2c6c38_m.jpg" group-title="香港頻道",[BD]HOY TV 78  *
 https://epg.pw/stream/e106bfd05401b1f0c3bf587a65f97b472420a4a4dcd158a321aef78a616d9979.ctv
+#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805003707250119_76.png" group-title="香港頻道",天映頻道  *
+http://210.210.155.37/dr9445/h/h14/01.m3u8
+#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://epg.pw/media/images/channel/2018/02/10/large/20180210001223006998_82.jpg" group-title="香港頻道",[SD]天映經典  *
+https://epg.pw/stream/48b8c8fdc8b57ce555fc40d344cae0b6572e1f2d6126eb3e38ce917925ee3658.ctv
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="台灣頻道",TVBS亚洲  *
+https://epg.pw/stream/69a6002a82368bd46e1d7da8a2405145bcbc5ca195f0a26b9ca4a21acdb45dd4.m3u8
+#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="台灣頻道",中天亞洲台  *
+https://epg.pw/stream/7b718aa376b93a0d33cad579b5558d601ff9ea64c3e9d6b6ce84f7b2e57570f0.ctv
+#EXTINF:-1 group-title="国际频道",astro 歡喜台（需代理）
+https://epg.pw/stream/7cd446803ff94a460257a42459f8520aa75a9fe7a45e230486593369907bc155.ctv
+#EXTINF:-1 group-title="台灣頻道",東森電影HD（需代理）
+https://epg.pw/stream/8b9338c8431ac5c96988336ac78dc95497517655dff3a315ff079c6506588178.m3u8
