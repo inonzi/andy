@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="广东",广东卫视高清
 rtp://239.10.0.111:1025
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="广东",深圳卫视高清
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视",深圳卫视高清
 rtp://239.10.0.132:1025
-#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="广东",大湾区卫视高清
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="卫视",大湾区卫视高清
 rtp://239.11.0.78:1025
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="广东",广东珠江高清
 rtp://239.10.0.62:1025
@@ -25,9 +25,9 @@ rtp://239.10.0.112:1025
 rtp://239.11.0.180:1025
 #EXTINF:-1,tvg-id="现代教育" tvg-name="现代教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/现代教育.png" group-title="广东",广东现代教育高清
 rtp://239.11.0.181:1025
-#EXTINF:-1,tvg-id="南方购物" tvg-name="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东南方购物.png" group-title="广东",广东南方购物高清
+#EXTINF:-1,tvg-id="南方购物" tvg-name="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南方购物.png" group-title="广东",广东南方购物高清
 rtp://239.11.0.95:1025
-#EXTINF:-1,tvg-id="南方购物" tvg-name="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东南方购物.png" group-title="广东",广东南方购物高清
+#EXTINF:-1,tvg-id="南方购物" tvg-name="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南方购物.png" group-title="广东",广东南方购物高清
 rtp://239.10.0.126:1025
 #EXTINF:-1,tvg-id="广东移动" tvg-name="广东移动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东移动.png" group-title="广东",广东移动
 rtp://239.10.0.143:1025
@@ -55,13 +55,13 @@ rtp://239.11.0.74:1025
 rtp://239.11.0.84:1025
 #EXTINF:-1,tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江门综合.png" group-title="广东",江门综合高清
 rtp://239.10.0.219:1025
-#EXTINF:-1,tvg-id="珠海-1" tvg-name="珠海-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/珠海-1.png" group-title="广东",珠海-1高清
+#EXTINF:-1,tvg-id="珠海-1" tvg-name="珠海-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/珠海1.png" group-title="广东",珠海-1高清
 rtp://239.10.0.242:1025
 #EXTINF:-1,tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中山综合.png" group-title="广东",中山综合高清
 rtp://239.11.0.122:1025
 #EXTINF:-1,tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中山综合.png" group-title="广东",中山综合高清
 rtp://239.11.0.16:1025
-#EXTINF:-1,tvg-id="香山文化" tvg-name="香山文化" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/香山文化.png" group-title="广东",中山香山文化高清
+#EXTINF:-1,tvg-id="香山文化" tvg-name="香山文化" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中山香山文化.png" group-title="广东",中山香山文化高清
 rtp://239.11.0.123:1025
 #EXTINF:-1,tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云浮综合.png" group-title="广东",云浮综合高清
 rtp://239.11.0.96:1025
@@ -177,7 +177,7 @@ rtp://239.10.0.58:1025
 rtp://239.10.0.59:1025
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="超清",四川卫视超清（CAVS）
 rtp://239.10.0.60:1025
-#EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕4K.png" group-title="4K超高清",咪咕视频4K
+#EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="4K超高清",咪咕视频4K
 rtp://239.10.0.68:1025
 #EXTINF:-1,tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="4K超高清",广州南国都市4K
 rtp://239.11.0.170:1025
@@ -185,9 +185,9 @@ rtp://239.11.0.170:1025
 rtp://239.10.0.75:1025
 #EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K.png" group-title="4K超高清",广东4K超高清 宽色域（AVS2）
 rtp://239.10.0.76:1025
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K超高清.png" group-title="央视",CCTV4K超高清 25P
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视",CCTV4K超高清 25P
 rtp://239.11.0.161:1025
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K超高清.png" group-title="央视",CCTV4K超高清 50P
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视",CCTV4K超高清 50P
 rtp://239.11.0.162:1025
 #EXTINF:-1,tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="4K超高清",广东卫视4K 50P
 rtp://239.11.0.193:1025
