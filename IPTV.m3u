@@ -199,17 +199,17 @@ rtp://239.11.0.195:1025
 rtp://239.11.0.192:1025
 #EXTINF:-1,tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="4K超高清",北京卫视4K 25P
 rtp://239.11.0.191:1025
-#EXTINF:-1,tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视4K.png" group-title="4K超高清",湖南卫视4K 50P
+#EXTINF:-1,tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/inonzi/logo/refs/heads/inonzi/湖南卫视4K.png" group-title="4K超高清",湖南卫视4K 50P
 rtp://239.11.0.200:1025
-#EXTINF:-1,tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视4K.png" group-title="4K超高清",江苏卫视4K 50P
+#EXTINF:-1,tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/inonzi/logo/refs/heads/inonzi/江苏卫视4K.png" group-title="4K超高清",江苏卫视4K 50P
 rtp://239.11.0.201:1025
-#EXTINF:-1,tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视4K.png" group-title="4K超高清",浙江卫视4K 50P
+#EXTINF:-1,tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/inonzi/logo/refs/heads/inonzi/浙江卫视4K.png" group-title="4K超高清",浙江卫视4K 50P
 rtp://239.11.0.202:1025
-#EXTINF:-1,tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视4K.png" group-title="4K超高清",东方卫视4K 50P
+#EXTINF:-1,tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/inonzi/logo/refs/heads/inonzi/东方卫视4K.png" group-title="4K超高清",东方卫视4K 50P
 rtp://239.11.0.203:1025
-#EXTINF:-1,tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视4K.png" group-title="4K超高清",四川卫视4K 50P
+#EXTINF:-1,tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo=https://raw.githubusercontent.com/inonzi/logo/refs/heads/inonzi/四川卫视4K.png" group-title="4K超高清",四川卫视4K 50P
 rtp://239.11.0.204:1025
-#EXTINF:-1,tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视4K.png" group-title="4K超高清",山东卫视4K 50P
+#EXTINF:-1,tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/inonzi/logo/refs/heads/inonzi/山东卫视4K.png" group-title="4K超高清",山东卫视4K 50P
 rtp://239.11.0.205:1025
 #EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="其他",CGTN 英语（中国国际电视台）高清
 rtp://239.11.0.103:1025
