@@ -1,4 +1,98 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="河北",河北卫视高清
+http:/192.168.9.1:8088/udp/239.254.200.174:6000
+#EXTINF:-1,tvg-id="河北经济生活" tvg-name="河北经济生活" tvg-logo="https://epg.v1.mk/logo/河北经济生活.png" group-title="河北",河北经济生活高清
+http:/192.168.9.1:8088/udp/239.254.200.18:6000
+#EXTINF:-1,tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://epg.v1.mk/logo/河北都市.png" group-title="河北",河北都市高清
+http:/192.168.9.1:8088/udp/239.254.200.19:6000
+#EXTINF:-1,tvg-id="河北影视剧" tvg-name="河北影视剧" tvg-logo="https://epg.v1.mk/logo/河北影视剧.png" group-title="河北",河北影视剧高清
+http:/192.168.9.1:8088/udp/239.254.200.20:6000
+#EXTINF:-1,tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://epg.v1.mk/logo/河北少儿科教.png" group-title="河北",河北少儿科教高清
+http:/192.168.9.1:8088/udp/239.254.200.21:6000
+#EXTINF:-1,tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://epg.v1.mk/logo/河北公共.png" group-title="河北",河北公共高清
+http:/192.168.9.1:8088/udp/239.254.200.22:6000
+#EXTINF:-1,tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://epg.v1.mk/logo/河北农民.png" group-title="河北",河北农民高清
+http:/192.168.9.1:8088/udp/239.254.200.23:6000
+#EXTINF:-1,tvg-id="H睛彩中原" tvg-name="H睛彩中原" tvg-logo="https://epg.v1.mk/logo/H睛彩中原.png" group-title="河北",睛彩河北高清
+http:/192.168.9.1:8088/udp/239.254.200.27:6000
+#EXTINF:-1,tvg-id="三佳购物" tvg-name="三佳购物" tvg-logo="https://epg.v1.mk/logo/三佳购物.png" group-title="河北",三佳购物高清
+http:/192.168.9.1:8088/udp/239.254.200.143:6000
+#EXTINF:-1,tvg-id="优购物2" tvg-name="优购物2" tvg-logo="https://epg.v1.mk/logo/优购物2.png" group-title="河北",优购物精选
+http:/192.168.9.1:8088/udp/239.254.200.15:7389
+#EXTINF:-1,tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://epg.v1.mk/logo/中视购物.png" group-title="河北",中视购物
+http:/192.168.9.1:8088/udp/239.254.200.71:6253
+#EXTINF:-1,tvg-id="优购物" tvg-name="优购物" tvg-logo="https://epg.v1.mk/logo/优购物.png" group-title="河北",优购物
+http:/192.168.9.1:8088/udp/239.254.201.78:6283
+#EXTINF:-1,tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://epg.v1.mk/logo/家有购物.png" group-title="河北",家有购物
+http:/192.168.9.1:8088/udp/239.254.201.80:7192
+#EXTINF:-1,tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://epg.v1.mk/logo/聚鲨环球精选.png" group-title="河北",聚鲨环球精选
+http:/192.168.9.1:8088/udp/239.254.201.81:7191
+#EXTINF:-1,tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://epg.v1.mk/logo/央广购物.png" group-title="河北",央广购物
+http:/192.168.9.1:8088/udp/239.254.201.202:7268
+#EXTINF:-1,tvg-id="河北杂技频道" tvg-name="河北杂技频道" tvg-logo="https://epg.v1.mk/logo/河北杂技频道.png" group-title="河北",河北杂技频道高清
+http:/192.168.9.1:8088/udp/239.254.201.139:7203
+#EXTINF:-1,tvg-id="石家庄新闻综合" tvg-name="石家庄新闻综合" tvg-logo="https://epg.v1.mk/logo/石家庄新闻综合.png" group-title="河北",石家庄新闻综合高清
+http:/192.168.9.1:8088/udp/239.254.200.157:6000
+#EXTINF:-1,tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://epg.v1.mk/logo/石家庄娱乐.png" group-title="河北",石家庄文化娱乐高清
+http:/192.168.9.1:8088/udp/239.254.200.29:6000
+#EXTINF:-1,tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://epg.v1.mk/logo/石家庄娱乐.png" group-title="河北",石家庄城市服务高清
+http:/192.168.9.1:8088/udp/239.254.200.30:6000
+#EXTINF:-1,tvg-id="石家庄新闻" tvg-name="石家庄新闻" tvg-logo="https://epg.v1.mk/logo/石家庄新闻.png" group-title="河北",石家庄新乐综合高清
+http:/192.168.9.1:8088/udp/239.254.200.173:6168
+#EXTINF:-1,tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://epg.v1.mk/logo/石家庄娱乐.png" group-title="河北",石家庄中华特产高清
+http:/192.168.9.1:8088/udp/239.254.201.184:5017
+#EXTINF:-1,tvg-id="承德电视台" tvg-name="承德电视台" tvg-logo="https://epg.v1.mk/logo/承德电视台.png" group-title="河北",承德新闻综合高清
+http:/192.168.9.1:8088/udp/239.254.200.32:6000
+#EXTINF:-1,tvg-id="承德电视台" tvg-name="承德电视台" tvg-logo="https://epg.v1.mk/logo/承德电视台.png" group-title="河北",承德旅游文化高清
+http:/192.168.9.1:8088/udp/239.254.200.33:6000
+#EXTINF:-1,tvg-id="张家界新闻" tvg-name="张家界新闻" tvg-logo="https://epg.v1.mk/logo/张家界新闻.png" group-title="河北",张家口新闻综合高清
+http:/192.168.9.1:8088/udp/239.254.200.175:5273
+#EXTINF:-1,tvg-id="张家界新闻" tvg-name="张家界新闻" tvg-logo="https://epg.v1.mk/logo/张家界新闻.png" group-title="河北",张家口新闻综合高清
+http:/192.168.9.1:8088/udp/239.254.200.35:6000
+#EXTINF:-1,tvg-id="张家界新闻" tvg-name="张家界新闻" tvg-logo="https://epg.v1.mk/logo/张家界新闻.png" group-title="河北",张家口公共
+http:/192.168.9.1:8088/udp/239.254.200.36:6000
+#EXTINF:-1,tvg-id="秦皇岛新闻综合" tvg-name="秦皇岛新闻综合" tvg-logo="https://epg.v1.mk/logo/秦皇岛新闻综合.png" group-title="河北",秦皇岛新闻综合高清
+http:/192.168.9.1:8088/udp/239.254.200.39:6000
+#EXTINF:-1,tvg-id="秦皇岛公共" tvg-name="秦皇岛公共" tvg-logo="https://epg.v1.mk/logo/秦皇岛公共.png" group-title="河北",秦皇岛公共高清
+http:/192.168.9.1:8088/udp/239.254.200.40:6000
+#EXTINF:-1,tvg-id="唐山新闻综合" tvg-name="唐山新闻综合" tvg-logo="https://epg.v1.mk/logo/唐山新闻综合.png" group-title="河北",唐山新闻综合高清
+http:/192.168.9.1:8088/udp/239.254.200.166:6000
+#EXTINF:-1,tvg-id="唐山生活服务" tvg-name="唐山生活服务" tvg-logo="https://epg.v1.mk/logo/唐山生活服务.png" group-title="河北",唐山生活服务高清
+http:/192.168.9.1:8088/udp/239.254.200.167:6000
+#EXTINF:-1,tvg-id="唐山影视" tvg-name="唐山影视" tvg-logo="https://epg.v1.mk/logo/唐山影视.png" group-title="河北",唐山影视高清
+http:/192.168.9.1:8088/udp/239.254.200.168:6000
+#EXTINF:-1,tvg-id="唐山公共" tvg-name="唐山公共" tvg-logo="https://epg.v1.mk/logo/唐山公共.png" group-title="河北",唐山公共高清
+http:/192.168.9.1:8088/udp/239.254.200.169:6000
+#EXTINF:-1,tvg-id="廊坊新闻综合" tvg-name="廊坊新闻综合" tvg-logo="https://epg.v1.mk/logo/廊坊新闻综合.png" group-title="河北",廊坊新闻综合高清
+http:/192.168.9.1:8088/udp/239.254.200.183:6000
+#EXTINF:-1,tvg-id="廊坊生活" tvg-name="廊坊生活" tvg-logo="https://epg.v1.mk/logo/廊坊生活.png" group-title="河北",廊坊生活高清
+http:/192.168.9.1:8088/udp/239.254.200.184:6000
+#EXTINF:-1,tvg-id="沧州新闻综合" tvg-name="沧州新闻综合" tvg-logo="https://epg.v1.mk/logo/沧州新闻综合.png" group-title="河北",沧州新闻综合
+http:/192.168.9.1:8088/udp/239.254.200.42:6000
+#EXTINF:-1,tvg-id="沧州公共" tvg-name="沧州公共" tvg-logo="https://epg.v1.mk/logo/沧州公共.png" group-title="河北",沧州公共
+http:/192.168.9.1:8088/udp/239.254.200.43:6000
+#EXTINF:-1,tvg-id="沧州影视娱乐" tvg-name="沧州影视娱乐" tvg-logo="https://epg.v1.mk/logo/沧州影视娱乐.png" group-title="河北",沧州影视娱乐
+http:/192.168.9.1:8088/udp/239.254.200.44:6000
+#EXTINF:-1,tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://epg.v1.mk/logo/保定新闻综合.png" group-title="河北",保定新闻综合高清
+http:/192.168.9.1:8088/udp/239.254.200.144:6000
+#EXTINF:-1,tvg-id="保定公共频道" tvg-name="保定公共频道" tvg-logo="https://epg.v1.mk/logo/保定公共频道.png" group-title="河北",保定公共频道高清
+http:/192.168.9.1:8088/udp/239.254.200.145:6000
+#EXTINF:-1,tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://epg.v1.mk/logo/保定生活健康.png" group-title="河北",保定生活健康高清
+http:/192.168.9.1:8088/udp/239.254.200.146:6000
+#EXTINF:-1,tvg-id="衡水新闻综合" tvg-name="衡水新闻综合" tvg-logo="https://epg.v1.mk/logo/河北-衡水.png" group-title="河北",衡水新闻综合高清
+http:/192.168.9.1:8088/udp/239.254.200.147:6000
+#EXTINF:-1,tvg-id="衡水公共" tvg-name="衡水公共" tvg-logo="https://epg.v1.mk/logo/河北-衡水.png" group-title="河北",衡水公共高清
+http:/192.168.9.1:8088/udp/239.254.200.149:6000
+#EXTINF:-1,tvg-id="邢台综合" tvg-name="邢台综合" tvg-logo="https://epg.v1.mk/logo/邢台综合.png" group-title="河北",邢台综合高清
+http:/192.168.9.1:8088/udp/239.254.200.150:6000
+#EXTINF:-1,tvg-id="邢台城市生活" tvg-name="邢台城市生活" tvg-logo="https://epg.v1.mk/logo/邢台城市生活.png" group-title="河北",邢台城市生活高清
+http:/192.168.9.1:8088/udp/239.254.200.152:6000
+#EXTINF:-1,tvg-id="邯郸新闻综合" tvg-name="邯郸新闻综合" tvg-logo="https://epg.v1.mk/logo/邯郸新闻综合.png" group-title="河北",邯郸新闻综合高清
+http:/192.168.9.1:8088/udp/239.254.200.153:6000
+#EXTINF:-1,tvg-id="邯郸公共" tvg-name="邯郸公共" tvg-logo="https://epg.v1.mk/logo/邯郸公共.png" group-title="河北",邯郸公共高清高清
+http:/192.168.9.1:8088/udp/239.254.200.154:6000
+#EXTINF:-1,tvg-id="邯郸科技教育" tvg-name="邯郸科技教育" tvg-logo="https://epg.v1.mk/logo/邯郸科技教育.png" group-title="河北",邯郸科技教育高清
+http:/192.168.9.1:8088/udp/239.254.200.155:6000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1综合高清
 http:/192.168.9.1:8088/udp/239.254.200.45:8008
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2财经高清
@@ -77,100 +171,6 @@ http:/192.168.9.1:8088/udp/239.254.201.210:4220
 http:/192.168.9.1:8088/udp/239.254.201.211:4220
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.v1.mk/logo/CGTN俄语.png" group-title="央视",CGTN俄语高清
 http:/192.168.9.1:8088/udp/239.254.201.212:4220
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="河北",河北卫视高清
-http:/192.168.9.1:8088/udp/239.254.200.174:6000
-#EXTINF:-1,tvg-id="河北经济生活" tvg-name="河北经济生活" tvg-logo="https://epg.v1.mk/logo/河北经济生活.png" group-title="河北",河北经济生活高清
-http:/192.168.9.1:8088/udp/239.254.200.18:6000
-#EXTINF:-1,tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://epg.v1.mk/logo/河北都市.png" group-title="河北",河北都市高清
-http:/192.168.9.1:8088/udp/239.254.200.19:6000
-#EXTINF:-1,tvg-id="河北影视剧" tvg-name="河北影视剧" tvg-logo="https://epg.v1.mk/logo/河北影视剧.png" group-title="河北",河北影视剧高清
-http:/192.168.9.1:8088/udp/239.254.200.20:6000
-#EXTINF:-1,tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://epg.v1.mk/logo/河北少儿科教.png" group-title="河北",河北少儿科教高清
-http:/192.168.9.1:8088/udp/239.254.200.21:6000
-#EXTINF:-1,tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://epg.v1.mk/logo/河北公共.png" group-title="河北",河北公共高清
-http:/192.168.9.1:8088/udp/239.254.200.22:6000
-#EXTINF:-1,tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://epg.v1.mk/logo/河北农民.png" group-title="河北",河北农民高清
-http:/192.168.9.1:8088/udp/239.254.200.23:6000
-#EXTINF:-1,tvg-id="H睛彩中原" tvg-name="H睛彩中原" tvg-logo="https://epg.v1.mk/logo/H睛彩中原.png" group-title="河北",睛彩河北高清
-http:/192.168.9.1:8088/udp/239.254.200.27:6000
-#EXTINF:-1,tvg-id="三佳购物" tvg-name="三佳购物" tvg-logo="https://epg.v1.mk/logo/三佳购物.png" group-title="其他",三佳购物高清
-http:/192.168.9.1:8088/udp/239.254.200.143:6000
-#EXTINF:-1,tvg-id="优购物2" tvg-name="优购物2" tvg-logo="https://epg.v1.mk/logo/优购物2.png" group-title="其他",优购物精选
-http:/192.168.9.1:8088/udp/239.254.200.15:7389
-#EXTINF:-1,tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://epg.v1.mk/logo/中视购物.png" group-title="其他",中视购物
-http:/192.168.9.1:8088/udp/239.254.200.71:6253
-#EXTINF:-1,tvg-id="优购物" tvg-name="优购物" tvg-logo="https://epg.v1.mk/logo/优购物.png" group-title="其他",优购物
-http:/192.168.9.1:8088/udp/239.254.201.78:6283
-#EXTINF:-1,tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://epg.v1.mk/logo/家有购物.png" group-title="其他",家有购物
-http:/192.168.9.1:8088/udp/239.254.201.80:7192
-#EXTINF:-1,tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://epg.v1.mk/logo/聚鲨环球精选.png" group-title="其他",聚鲨环球精选
-http:/192.168.9.1:8088/udp/239.254.201.81:7191
-#EXTINF:-1,tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://epg.v1.mk/logo/央广购物.png" group-title="其他",央广购物
-http:/192.168.9.1:8088/udp/239.254.201.202:7268
-#EXTINF:-1,tvg-id="河北三佳购物频道" tvg-name="河北三佳购物频道" tvg-logo="https://epg.v1.mk/logo/河北三佳购物频道.png" group-title="河北",河北杂技频道高清
-http:/192.168.9.1:8088/udp/239.254.201.139:7203
-#EXTINF:-1,tvg-id="石家庄新闻综合" tvg-name="石家庄新闻综合" tvg-logo="https://epg.v1.mk/logo/石家庄新闻综合.png" group-title="其他",石家庄新闻综合高清
-http:/192.168.9.1:8088/udp/239.254.200.157:6000
-#EXTINF:-1,tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://epg.v1.mk/logo/石家庄娱乐.png" group-title="河北",石家庄文化娱乐高清
-http:/192.168.9.1:8088/udp/239.254.200.29:6000
-#EXTINF:-1,tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://epg.v1.mk/logo/石家庄娱乐.png" group-title="河北",石家庄城市服务高清
-http:/192.168.9.1:8088/udp/239.254.200.30:6000
-#EXTINF:-1,tvg-id="石家庄新闻" tvg-name="石家庄新闻" tvg-logo="https://epg.v1.mk/logo/石家庄新闻.png" group-title="河北",石家庄新乐综合高清
-http:/192.168.9.1:8088/udp/239.254.200.173:6168
-#EXTINF:-1,tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://epg.v1.mk/logo/石家庄娱乐.png" group-title="河北",石家庄中华特产高清
-http:/192.168.9.1:8088/udp/239.254.201.184:5017
-#EXTINF:-1,tvg-id="承德电视台" tvg-name="承德电视台" tvg-logo="https://epg.v1.mk/logo/承德电视台.png" group-title="河北",承德新闻综合高清
-http:/192.168.9.1:8088/udp/239.254.200.32:6000
-#EXTINF:-1,tvg-id="承德电视台" tvg-name="承德电视台" tvg-logo="https://epg.v1.mk/logo/承德电视台.png" group-title="河北",承德旅游文化高清
-http:/192.168.9.1:8088/udp/239.254.200.33:6000
-#EXTINF:-1,tvg-id="张家界新闻" tvg-name="张家界新闻" tvg-logo="https://epg.v1.mk/logo/张家界新闻.png" group-title="河北",张家口新闻综合高清
-http:/192.168.9.1:8088/udp/239.254.200.175:5273
-#EXTINF:-1,tvg-id="张家界新闻" tvg-name="张家界新闻" tvg-logo="https://epg.v1.mk/logo/张家界新闻.png" group-title="河北",张家口新闻综合高清
-http:/192.168.9.1:8088/udp/239.254.200.35:6000
-#EXTINF:-1,tvg-id="张家界新闻" tvg-name="张家界新闻" tvg-logo="https://epg.v1.mk/logo/张家界新闻.png" group-title="河北",张家口公共
-http:/192.168.9.1:8088/udp/239.254.200.36:6000
-#EXTINF:-1,tvg-id="秦皇岛新闻综合" tvg-name="秦皇岛新闻综合" tvg-logo="https://epg.v1.mk/logo/秦皇岛新闻综合.png" group-title="河北",秦皇岛新闻综合高清
-http:/192.168.9.1:8088/udp/239.254.200.39:6000
-#EXTINF:-1,tvg-id="秦皇岛公共" tvg-name="秦皇岛公共" tvg-logo="https://epg.v1.mk/logo/秦皇岛公共.png" group-title="河北",秦皇岛公共高清
-http:/192.168.9.1:8088/udp/239.254.200.40:6000
-#EXTINF:-1,tvg-id="唐山新闻综合" tvg-name="唐山新闻综合" tvg-logo="https://epg.v1.mk/logo/唐山新闻综合.png" group-title="河北",唐山新闻综合高清
-http:/192.168.9.1:8088/udp/239.254.200.166:6000
-#EXTINF:-1,tvg-id="唐山生活服务" tvg-name="唐山生活服务" tvg-logo="https://epg.v1.mk/logo/唐山生活服务.png" group-title="河北",唐山生活服务高清
-http:/192.168.9.1:8088/udp/239.254.200.167:6000
-#EXTINF:-1,tvg-id="唐山影视" tvg-name="唐山影视" tvg-logo="https://epg.v1.mk/logo/唐山影视.png" group-title="河北",唐山影视高清
-http:/192.168.9.1:8088/udp/239.254.200.168:6000
-#EXTINF:-1,tvg-id="唐山公共" tvg-name="唐山公共" tvg-logo="https://epg.v1.mk/logo/唐山公共.png" group-title="河北",唐山公共高清
-http:/192.168.9.1:8088/udp/239.254.200.169:6000
-#EXTINF:-1,tvg-id="廊坊新闻综合" tvg-name="廊坊新闻综合" tvg-logo="https://epg.v1.mk/logo/廊坊新闻综合.png" group-title="河北",廊坊新闻综合高清
-http:/192.168.9.1:8088/udp/239.254.200.183:6000
-#EXTINF:-1,tvg-id="廊坊生活" tvg-name="廊坊生活" tvg-logo="https://epg.v1.mk/logo/廊坊生活.png" group-title="河北",廊坊生活高清
-http:/192.168.9.1:8088/udp/239.254.200.184:6000
-#EXTINF:-1,tvg-id="沧州新闻综合" tvg-name="沧州新闻综合" tvg-logo="https://epg.v1.mk/logo/沧州新闻综合.png" group-title="河北",沧州新闻综合
-http:/192.168.9.1:8088/udp/239.254.200.42:6000
-#EXTINF:-1,tvg-id="沧州公共" tvg-name="沧州公共" tvg-logo="https://epg.v1.mk/logo/沧州公共.png" group-title="河北",沧州公共
-http:/192.168.9.1:8088/udp/239.254.200.43:6000
-#EXTINF:-1,tvg-id="沧州影视娱乐" tvg-name="沧州影视娱乐" tvg-logo="https://epg.v1.mk/logo/沧州影视娱乐.png" group-title="河北",沧州影视娱乐
-http:/192.168.9.1:8088/udp/239.254.200.44:6000
-#EXTINF:-1,tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://epg.v1.mk/logo/保定新闻综合.png" group-title="河北",保定新闻综合高清
-http:/192.168.9.1:8088/udp/239.254.200.144:6000
-#EXTINF:-1,tvg-id="保定公共频道" tvg-name="保定公共频道" tvg-logo="https://epg.v1.mk/logo/保定公共频道.png" group-title="河北",保定公共频道高清
-http:/192.168.9.1:8088/udp/239.254.200.145:6000
-#EXTINF:-1,tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://epg.v1.mk/logo/保定生活健康.png" group-title="河北",保定生活健康高清
-http:/192.168.9.1:8088/udp/239.254.200.146:6000
-#EXTINF:-1,tvg-id="衡水新闻综合" tvg-name="衡水新闻综合" tvg-logo="https://epg.v1.mk/logo/河北-衡水.png" group-title="河北",衡水新闻综合高清
-http:/192.168.9.1:8088/udp/239.254.200.147:6000
-#EXTINF:-1,tvg-id="衡水公共" tvg-name="衡水公共" tvg-logo="https://epg.v1.mk/logo/河北-衡水.png" group-title="河北",衡水公共高清
-http:/192.168.9.1:8088/udp/239.254.200.149:6000
-#EXTINF:-1,tvg-id="邢台综合" tvg-name="邢台综合" tvg-logo="https://epg.v1.mk/logo/邢台综合.png" group-title="河北",邢台综合高清
-http:/192.168.9.1:8088/udp/239.254.200.150:6000
-#EXTINF:-1,tvg-id="邢台城市生活" tvg-name="邢台城市生活" tvg-logo="https://epg.v1.mk/logo/邢台城市生活.png" group-title="河北",邢台城市生活高清
-http:/192.168.9.1:8088/udp/239.254.200.152:6000
-#EXTINF:-1,tvg-id="邯郸新闻综合" tvg-name="邯郸新闻综合" tvg-logo="https://epg.v1.mk/logo/邯郸新闻综合.png" group-title="河北",邯郸新闻综合高清
-http:/192.168.9.1:8088/udp/239.254.200.153:6000
-#EXTINF:-1,tvg-id="邯郸公共" tvg-name="邯郸公共" tvg-logo="https://epg.v1.mk/logo/邯郸公共.png" group-title="河北",邯郸公共高清高清
-http:/192.168.9.1:8088/udp/239.254.200.154:6000
-#EXTINF:-1,tvg-id="邯郸科技教育" tvg-name="邯郸科技教育" tvg-logo="https://epg.v1.mk/logo/邯郸科技教育.png" group-title="河北",邯郸科技教育高清
-http:/192.168.9.1:8088/udp/239.254.200.155:6000
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
 http:/192.168.9.1:8088/udp/239.254.200.48:8012
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视高清
