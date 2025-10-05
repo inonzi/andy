@@ -41,7 +41,7 @@ http://10.0.0.1:38887/udp/239.0.1.225:5126
 http://10.0.0.1:38887/udp/239.0.1.152:5107
 #EXTINF:-1,tvg-id="河源公共" tvg-name="河源公共" tvg-logo="https://epg.v1.mk/logo/河源公共.png" group-title="广东",河源公共高清
 http://10.0.0.1:38887/udp/239.0.1.236:5225
-#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/https://epg.v1.mk/logo/阳江-1.png" group-title="广东",阳江新闻综合高清
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/阳江-1.png" group-title="广东",阳江新闻综合高清
 http://10.0.0.1:38887/udp/239.0.1.154:5111
 #EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/阳江-2.png" group-title="广东",阳江文化生活高清
 http://10.0.0.1:38887/udp/239.0.1.155:5111
