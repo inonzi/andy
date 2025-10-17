@@ -185,7 +185,7 @@ http://192.168.1.129:4022/udp/239.0.1.44:5092
 http://192.168.1.129:4022/udp/239.0.1.30:8172
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视",陕西卫视
 http://192.168.1.129:4022/udp/239.0.1.29:8140
-#EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K.png" group-title="4K超高清",广东4K超高清 窄色域 30 25P
+#EXTINF:-1,tvg-id="广东4K超" tvg-name="广东4K超" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K.png" group-title="4K超高清",广东4K超高清 窄色域 30 25P
 http://192.168.1.129:4022/udp/239.0.1.169:6030
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="4K超高清",北京卫视4K超高清25P
 http://192.168.1.129:4022/udp/239.0.1.2:2000
