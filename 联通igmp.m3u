@@ -3,7 +3,7 @@
 http://10.10.10.10:8188/udp/239.0.1.1:5001
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="广东",大湾区卫视高清
 http://10.10.10.10:8188/udp/239.0.1.77:5075
-#EXTINF:-1,tvg-id="经济科教" tvg-name="经济科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经济科教.png" group-title="广东",经济科教高清
+#EXTINF:-1,tvg-id="经济科教" tvg-name="经济科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东经济科教.png" group-title="广东",经济科教高清
 http://10.10.10.10:8188/udp/239.0.1.94:5013
 #EXTINF:-1,tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/岭南戏曲.png" group-title="广东",岭南戏曲高清
 http://10.10.10.10:8188/udp/239.0.1.60:5080
@@ -11,7 +11,7 @@ http://10.10.10.10:8188/udp/239.0.1.60:5080
 http://10.10.10.10:8188/udp/239.0.1.62:5081
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="广东",嘉佳卡通高清
 http://10.10.10.10:8188/udp/239.0.1.64:5078
-#EXTINF:-1,tvg-id="广东南方购物" tvg-name="广东南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东南方购物.png" group-title="广东",南方购物高清
+#EXTINF:-1,tvg-id="广东南方购物" tvg-name="广东南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南方购物.png" group-title="广东",南方购物高清
 http://10.10.10.10:8188/udp/239.0.1.57:5087
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="广东",广东珠江高清
 http://10.10.10.10:8188/udp/239.0.1.133:5172
@@ -41,9 +41,9 @@ http://10.10.10.10:8188/udp/239.0.1.225:5126
 http://10.10.10.10:8188/udp/239.0.1.152:5107
 #EXTINF:-1,tvg-id="河源公共" tvg-name="河源公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河源公共.png" group-title="广东",河源公共高清
 http://10.10.10.10:8188/udp/239.0.1.236:5225
-#EXTINF:-1,tvg-id="阳江-1" tvg-name="阳江-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/阳江-1.png" group-title="广东",阳江新闻综合高清
+#EXTINF:-1,tvg-id="阳江-1" tvg-name="阳江-1" tvg-logo="https://raw.githubusercontent.com/inonzi/logo/refs/heads/inonzi/阳江-1.png" group-title="广东",阳江新闻综合高清
 http://10.10.10.10:8188/udp/239.0.1.154:5111
-#EXTINF:-1,tvg-id="阳江-2" tvg-name="阳江-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/阳江-2.png" group-title="广东",阳江文化生活高清
+#EXTINF:-1,tvg-id="阳江-2" tvg-name="阳江-2" tvg-logo="https://raw.githubusercontent.com/inonzi/logo/refs/heads/inonzi/阳江-2.png" group-title="广东",阳江文化生活高清
 http://10.10.10.10:8188/udp/239.0.1.155:5111
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV-1综合高清
 http://10.10.10.10:8188/udp/239.0.1.3:8008
