@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="广东",广东卫视高清
-http://10.10.10.10:8188/udp/239.0.1.1:5001
+http://192.168.1.129:4022/udp/239.0.1.1:5001
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="广东",大湾区卫视高清
 http://10.10.10.10:8188/udp/239.0.1.77:5075
 #EXTINF:-1,tvg-id="经济科教" tvg-name="经济科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东经济科教.png" group-title="广东",经济科教高清
